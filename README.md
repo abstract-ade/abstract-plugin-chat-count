@@ -11,11 +11,11 @@ In Abstract, Settings › Plugins lists it from the reviewed registry, or use
 **Add from GitHub…** or the command line:
 
 ```sh
-abstract plugin add endeken-com/chat-count
+abstract plugin add abstract-ade/chat-count
 ```
 
-That installs the commit the [registry](https://github.com/endeken-com/abstract-plugins)
-approved. `abstract plugin add endeken-com/abstract-plugin-chat-count` installs this
+That installs the commit the [registry](https://github.com/abstract-ade/abstract-plugins)
+approved. `abstract plugin add abstract-ade/abstract-plugin-chat-count` installs this
 repository's latest commit instead, marked "Not reviewed".
 
 ## What it can access
